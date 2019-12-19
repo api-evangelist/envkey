@@ -1,0 +1,46 @@
+{
+    "name": "EnvKey",
+    "description": "Protect API keys and credentials. Keep configuration in sync everywhere.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28148-www-envkey-com.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "keys",
+        "management",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/envkey\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EnvKey",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28148-www-envkey-com.jpg",
+            "humanURL": "https:\/\/www.envkey.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/envkey"
+        },
+        {
+            "type": "Email",
+            "url": "support@envkey.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EnvkeyConfig"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.envkey.com"
+        }
+    ]
+}
